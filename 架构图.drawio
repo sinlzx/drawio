@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="29.6.1">
   <diagram name="第 1 页" id="JHU-rqIi65VxJ7iMBQan">
-    <mxGraphModel dx="1067529" dy="799631" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1085129" dy="812831" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -422,7 +422,7 @@
         <mxCell id="ZPHeH2Ijp0Iv6WGzpq6s-260" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Decoder&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="610.5" y="522" as="geometry" />
         </mxCell>
-        <mxCell id="ZPHeH2Ijp0Iv6WGzpq6s-261" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Transform&lt;/font&gt;" vertex="1">
+        <mxCell id="ZPHeH2Ijp0Iv6WGzpq6s-261" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Transformer&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="680" y="477" as="geometry" />
         </mxCell>
         <mxCell id="ZPHeH2Ijp0Iv6WGzpq6s-262" edge="1" parent="1" source="ZPHeH2Ijp0Iv6WGzpq6s-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZPHeH2Ijp0Iv6WGzpq6s-230">
@@ -441,6 +441,12 @@
         </mxCell>
         <mxCell id="ZPHeH2Ijp0Iv6WGzpq6s-266" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Positional&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Encoding&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="92" x="382" y="588" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPHeH2Ijp0Iv6WGzpq6s-273" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Historical Position-Encoded Matrix&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="103" x="460" y="538" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPHeH2Ijp0Iv6WGzpq6s-274" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Predicted Feature Matrix&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="103" x="709.15" y="535" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
