@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0">
   <diagram name="第 1 页" id="orL0Xrcpjj1Xs1S7iF3-">
-    <mxGraphModel dx="2085657" dy="1055300" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2127657" dy="1080500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -570,7 +570,7 @@
           <mxGeometry height="34.8595177428459" width="59.800382097082334" x="285.48169013039524" y="154.4489867227424" as="geometry" />
         </mxCell>
         <mxCell id="A7c1up9yPVK4LV1bd7lW-162" parent="Ye8HIvFgGIEfStZxBun8-1129" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;$$P_1$$&lt;/span&gt;" vertex="1">
-          <mxGeometry height="34.8595177428459" width="59.800382097082334" x="23.00190727035522" y="100.3124682572589" as="geometry" />
+          <mxGeometry height="34.8595177428459" width="59.800382097082334" x="0.0019072703552183157" y="97.8724682572589" as="geometry" />
         </mxCell>
         <mxCell id="Ye8HIvFgGIEfStZxBun8-1122" edge="1" parent="Ye8HIvFgGIEfStZxBun8-1129" source="A7c1up9yPVK4LV1bd7lW-885" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=26.143256523077618;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="A7c1up9yPVK4LV1bd7lW-484">
           <mxGeometry relative="1" as="geometry" />
@@ -671,7 +671,7 @@
           <mxGeometry height="31.768878885482565" width="67.4238654869883" x="352.608555883244" y="153.82193585855458" as="geometry" />
         </mxCell>
         <mxCell id="Ye8HIvFgGIEfStZxBun8-511" connectable="0" parent="Ye8HIvFgGIEfStZxBun8-1129" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="81" width="76" x="93" y="37.01382424101695" as="geometry" />
+          <mxGeometry height="81" width="76" x="109" y="38.00382424101695" as="geometry" />
         </mxCell>
         <mxCell id="Ye8HIvFgGIEfStZxBun8-523" parent="Ye8HIvFgGIEfStZxBun8-511" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="17.741935483870968" width="21.59090909090909" x="3.2990909090908542" y="2.790322580645191" as="geometry" />
@@ -719,10 +719,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ye8HIvFgGIEfStZxBun8-1126" parent="Ye8HIvFgGIEfStZxBun8-1129" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Population Partition&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="125" x="120" y="141.50382424101696" as="geometry" />
+          <mxGeometry height="30" width="125" x="105" y="143.80382424101697" as="geometry" />
         </mxCell>
         <mxCell id="Ye8HIvFgGIEfStZxBun8-1127" connectable="0" parent="Ye8HIvFgGIEfStZxBun8-1129" style="group" value="" vertex="1">
-          <mxGeometry height="96.97" width="87.5" x="17" y="137.01382424101695" as="geometry" />
+          <mxGeometry height="96.97" width="87.5" x="-3" y="130.00382424101696" as="geometry" />
         </mxCell>
         <mxCell id="_AldnWB3snim0TMrBP2A-287" parent="Ye8HIvFgGIEfStZxBun8-1127" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="" vertex="1">
           <mxGeometry height="96.97" width="87.5" y="-1.940089123511402" as="geometry" />
