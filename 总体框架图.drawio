@@ -2169,7 +2169,7 @@
           <mxGeometry height="33.03673469387754" width="44.39890710382514" x="26.879781420765028" y="179.96326530612245" as="geometry" />
         </mxCell>
         <mxCell id="HzrRxu8P9fYZ2N1eohrl-244" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Position Encoding&lt;/font&gt;" vertex="1">
-          <mxGeometry height="29" width="60" x="1190" y="308" as="geometry" />
+          <mxGeometry height="29" width="60" x="1183" y="308" as="geometry" />
         </mxCell>
         <mxCell id="HzrRxu8P9fYZ2N1eohrl-257" connectable="0" parent="1" style="group;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="1340" y="189" as="geometry" />
