@@ -58,12 +58,6 @@
         <mxCell id="Yydr8x7FPe5mXVmRZtIV-82" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$PS_s$$&lt;/font&gt;" vertex="1">
           <mxGeometry height="82.07" width="146" x="598" y="729" as="geometry" />
         </mxCell>
-        <mxCell id="Yydr8x7FPe5mXVmRZtIV-707" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="Position&lt;div&gt;Encoding&lt;/div&gt;" vertex="1">
-          <mxGeometry height="29.800469876726606" width="60" x="917" y="899.9997521905048" as="geometry" />
-        </mxCell>
-        <mxCell id="Yydr8x7FPe5mXVmRZtIV-122" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;3 × Decoder Layer&lt;/font&gt;" vertex="1">
-          <mxGeometry height="29.8" width="151" x="1147" y="879" as="geometry" />
-        </mxCell>
         <mxCell id="Yydr8x7FPe5mXVmRZtIV-566" connectable="0" parent="1" style="group;" value="" vertex="1">
           <mxGeometry height="101.6" width="100" x="1610" y="-514" as="geometry" />
         </mxCell>
