@@ -2873,14 +2873,14 @@
         <mxCell id="88VGSKYP-uzLkVuPzQVd-1" edge="1" parent="1" source="y4HBfI9LwfBRDFo2-xyq-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ugvN7zXK9XvtnM5sNwPS-318">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="88VGSKYP-uzLkVuPzQVd-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$PS_s$$&lt;/font&gt;" vertex="1">
+        <mxCell id="88VGSKYP-uzLkVuPzQVd-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$PS_s$$&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="997" y="161" as="geometry" />
         </mxCell>
         <mxCell id="88VGSKYP-uzLkVuPzQVd-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$PS_t$$&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="1586" y="649" as="geometry" />
         </mxCell>
-        <mxCell id="88VGSKYP-uzLkVuPzQVd-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;individual-to-individual attention&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="217" x="829" y="428" as="geometry" />
+        <mxCell id="88VGSKYP-uzLkVuPzQVd-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;individual-to-individual attention&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="217" x="832" y="428" as="geometry" />
         </mxCell>
         <mxCell id="88VGSKYP-uzLkVuPzQVd-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;environment-to-environment attention&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="245" x="1377" y="426" as="geometry" />
