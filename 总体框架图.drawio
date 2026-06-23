@@ -2403,7 +2403,7 @@
           <mxGeometry height="30" width="129" x="1052" y="1156" as="geometry" />
         </mxCell>
         <mxCell id="gNrXiicIwbMcQROZD88e-137" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Position&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot; size=&quot;3&quot;&gt;Encoding&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="313" width="72" x="509" y="1319" as="geometry" />
+          <mxGeometry height="313" width="72" x="503" y="1335" as="geometry" />
         </mxCell>
         <mxCell id="gNrXiicIwbMcQROZD88e-159" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;V&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="33" x="1897" y="170" as="geometry" />
