@@ -4141,6 +4141,9 @@
         <mxCell id="gNrXiicIwbMcQROZD88e-860" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$PS_s$$&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="1461" y="986" as="geometry" />
         </mxCell>
+        <mxCell id="gNrXiicIwbMcQROZD88e-861" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Yes&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29.887733331709704" width="60.14285714285713" x="340.99571428571426" y="1544.9952710831303" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
