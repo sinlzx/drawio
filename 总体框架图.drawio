@@ -4562,7 +4562,7 @@
           <mxGeometry height="127.29611624604215" width="119.96139033689555" x="91.0344979841717" y="35.19403940945575" as="geometry" />
         </mxCell>
         <mxCell id="uGjdotmjg41OPldeeBZ2-1" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="197" width="170" x="858" y="2277" as="geometry" />
+          <mxGeometry height="197" width="170" x="839" y="2279" as="geometry" />
         </mxCell>
         <mxCell id="uGjdotmjg41OPldeeBZ2-2" parent="uGjdotmjg41OPldeeBZ2-1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="" vertex="1">
           <mxGeometry height="197" width="165.34825870646767" x="0.4228855721393035" as="geometry" />
