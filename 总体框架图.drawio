@@ -5107,6 +5107,9 @@
         <mxCell id="g0wfD0HCCoBnoZFoNERF-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\overline{\boldsymbol{A}^{i}}= \boldsymbol{exp}\left (\boldsymbol{A}\bigtriangleup_i \right )&amp;nbsp;$$" vertex="1">
           <mxGeometry height="30" width="60" x="976" y="3718" as="geometry" />
         </mxCell>
+        <mxCell id="g0wfD0HCCoBnoZFoNERF-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\overline{\boldsymbol{B}^{i}}=\frac{\overline{\boldsymbol{A}^{i}}-1}{\boldsymbol{A}}\odot \boldsymbol{B}&amp;nbsp;$$" vertex="1">
+          <mxGeometry height="30" width="60" x="959" y="3795" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
