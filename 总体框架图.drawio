@@ -5310,6 +5310,9 @@
         <mxCell id="cpC22A1kRcSrz_11geWJ-199" parent="cpC22A1kRcSrz_11geWJ-200" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;" value="" vertex="1">
           <mxGeometry height="8.449694478738532" width="8.449694478738532" x="69.99776930409917" y="35.99934426229538" as="geometry" />
         </mxCell>
+        <mxCell id="cpC22A1kRcSrz_11geWJ-549" parent="cpC22A1kRcSrz_11geWJ-499" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2.3 Guidance Matching and Base Population&amp;nbsp; Prediction&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="583" x="19" y="-10" as="geometry" />
+        </mxCell>
         <mxCell id="cpC22A1kRcSrz_11geWJ-510" connectable="0" parent="cpC22A1kRcSrz_11geWJ-519" style="group" value="" vertex="1">
           <mxGeometry height="190" width="665" y="245" as="geometry" />
         </mxCell>
@@ -5526,6 +5529,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="cpC22A1kRcSrz_11geWJ-548" parent="cpC22A1kRcSrz_11geWJ-510" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2.2 Set-Attention-Based Descriptor Learning&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="534" x="86" y="2" as="geometry" />
+        </mxCell>
         <mxCell id="cpC22A1kRcSrz_11geWJ-517" connectable="0" parent="cpC22A1kRcSrz_11geWJ-519" style="group" value="" vertex="1">
           <mxGeometry height="188" width="489" x="123" y="34" as="geometry" />
         </mxCell>
@@ -5721,11 +5727,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="cpC22A1kRcSrz_11geWJ-547" parent="cpC22A1kRcSrz_11geWJ-517" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2.1 Population Encoding&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="407" x="49" y="-3" as="geometry" />
+        </mxCell>
         <mxCell id="cpC22A1kRcSrz_11geWJ-541" edge="1" parent="cpC22A1kRcSrz_11geWJ-519" source="cpC22A1kRcSrz_11geWJ-505" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cpC22A1kRcSrz_11geWJ-498">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cpC22A1kRcSrz_11geWJ-543" parent="cpC22A1kRcSrz_11geWJ-519" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;2. Overall Guidance Value Learning&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="407" x="167" y="5" as="geometry" />
+        </mxCell>
         <mxCell id="cpC22A1kRcSrz_11geWJ-538" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="600" width="348" x="1088" y="3492" as="geometry" />
+          <mxGeometry height="600" width="379" x="1088" y="3492" as="geometry" />
         </mxCell>
         <mxCell id="cpC22A1kRcSrz_11geWJ-536" parent="cpC22A1kRcSrz_11geWJ-538" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=light-dark(#f906d8, #ededed);" value="" vertex="1">
           <mxGeometry height="618" width="347" x="1" y="-50" as="geometry" />
@@ -5976,6 +5988,9 @@
         <mxCell id="cpC22A1kRcSrz_11geWJ-239" edge="1" parent="cpC22A1kRcSrz_11geWJ-537" source="g0wfD0HCCoBnoZFoNERF-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cpC22A1kRcSrz_11geWJ-237">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cpC22A1kRcSrz_11geWJ-546" parent="cpC22A1kRcSrz_11geWJ-538" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;3. Local Region Adjustment&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="407" x="-28" y="-43" as="geometry" />
+        </mxCell>
         <mxCell id="cpC22A1kRcSrz_11geWJ-542" edge="1" parent="1" source="cpC22A1kRcSrz_11geWJ-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="cpC22A1kRcSrz_11geWJ-364">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -5984,6 +5999,12 @@
               <mxPoint x="366.3" y="3916.5" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cpC22A1kRcSrz_11geWJ-544" edge="1" parent="1" source="dTwgS9gzJdenpCG_6ptp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.277;entryDx=0;entryDy=0;" target="cpC22A1kRcSrz_11geWJ-518">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpC22A1kRcSrz_11geWJ-545" edge="1" parent="1" source="cpC22A1kRcSrz_11geWJ-364" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="dTwgS9gzJdenpCG_6ptp-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
