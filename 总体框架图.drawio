@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="P9fUBXZFuD06-Y9xEvTM">
-    <mxGraphModel dx="2488" dy="2032" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1970" dy="2032" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5801,7 +5801,7 @@
         <mxCell id="g0wfD0HCCoBnoZFoNERF-90" parent="cpC22A1kRcSrz_11geWJ-273" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SSM Cell&lt;/font&gt;" vertex="1">
           <mxGeometry height="26.02409638554217" width="91.83008356545962" x="115.01949860724234" y="26.89156626506024" as="geometry" />
         </mxCell>
-        <mxCell id="g0wfD0HCCoBnoZFoNERF-84" parent="cpC22A1kRcSrz_11geWJ-273" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\boldsymbol{S}^i=\overline{\boldsymbol{A}^{i}}\odot\boldsymbol{S}^{i-1}+\overline{\boldsymbol{B}^{i}}\odot\boldsymbol{H}^i$$&lt;/font&gt;" vertex="1">
+        <mxCell id="g0wfD0HCCoBnoZFoNERF-84" parent="cpC22A1kRcSrz_11geWJ-273" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;$$\boldsymbol{S}^i=\overline{\boldsymbol{A}^{i}}\odot\boldsymbol{S}^{i-1}+\overline{\boldsymbol{B}^{i}}\odot\boldsymbol{H}^i$$&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="26.02409638554217" width="55.65459610027855" x="135.42618384401115" y="167.42168674698794" as="geometry" />
         </mxCell>
         <mxCell id="cpC22A1kRcSrz_11geWJ-269" edge="1" parent="cpC22A1kRcSrz_11geWJ-273" source="g0wfD0HCCoBnoZFoNERF-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1.005;entryY=-0.492;entryDx=0;entryDy=0;entryPerimeter=0;" target="g0wfD0HCCoBnoZFoNERF-84">
