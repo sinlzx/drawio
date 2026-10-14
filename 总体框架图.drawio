@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="P9fUBXZFuD06-Y9xEvTM">
-    <mxGraphModel dx="1705" dy="1892" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2267" dy="2190" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5756,8 +5756,8 @@
         <mxCell id="cpC22A1kRcSrz_11geWJ-541" edge="1" parent="cpC22A1kRcSrz_11geWJ-519" source="cpC22A1kRcSrz_11geWJ-505" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cpC22A1kRcSrz_11geWJ-498">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cpC22A1kRcSrz_11geWJ-543" parent="cpC22A1kRcSrz_11geWJ-519" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2. Overall Guidance Value Learning&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="407" x="167" y="5" as="geometry" />
+        <mxCell id="cpC22A1kRcSrz_11geWJ-543" parent="cpC22A1kRcSrz_11geWJ-519" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;2.&amp;nbsp;&lt;/font&gt;Set-Attention-Based Guidance Value Learning&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="437" x="167" y="5" as="geometry" />
         </mxCell>
         <mxCell id="cpC22A1kRcSrz_11geWJ-538" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="600" width="379" x="1088" y="3492" as="geometry" />
@@ -5997,9 +5997,6 @@
         <mxCell id="cpC22A1kRcSrz_11geWJ-239" edge="1" parent="cpC22A1kRcSrz_11geWJ-537" source="g0wfD0HCCoBnoZFoNERF-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cpC22A1kRcSrz_11geWJ-237">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cpC22A1kRcSrz_11geWJ-546" parent="cpC22A1kRcSrz_11geWJ-538" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;3. Local Region Adjustment&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="407" x="-28" y="-43" as="geometry" />
-        </mxCell>
         <mxCell id="cpC22A1kRcSrz_11geWJ-550" edge="1" parent="cpC22A1kRcSrz_11geWJ-538" source="cpC22A1kRcSrz_11geWJ-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="cpC22A1kRcSrz_11geWJ-276">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -6039,8 +6036,8 @@
         <mxCell id="cpC22A1kRcSrz_11geWJ-545" edge="1" parent="1" source="cpC22A1kRcSrz_11geWJ-364" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="dTwgS9gzJdenpCG_6ptp-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cpC22A1kRcSrz_11geWJ-557" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Historical Guidance and State-Space Adjustment Response Strategy (HGSA)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="915" x="354" y="3401" as="geometry" />
+        <mxCell id="cpC22A1kRcSrz_11geWJ-557" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Attention–State-Space Hybrid Guidance Value Learning Response Strategy&amp;nbsp;(ASHG)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="1017" x="354" y="3401" as="geometry" />
         </mxCell>
         <mxCell id="cpC22A1kRcSrz_11geWJ-594" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;initial&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="101" x="83" y="5418" as="geometry" />
@@ -6074,6 +6071,9 @@
         </mxCell>
         <mxCell id="cpC22A1kRcSrz_11geWJ-606" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Prior PS Generation&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="199" x="-86" y="5655" as="geometry" />
+        </mxCell>
+        <mxCell id="cpC22A1kRcSrz_11geWJ-546" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;3.&lt;/font&gt;State-Space-Model-Based Region Adjustment&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="349" x="1094" y="3457" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
