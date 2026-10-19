@@ -4935,7 +4935,7 @@
           <mxGeometry height="696" width="1520" x="-31" y="4163" as="geometry" />
         </mxCell>
         <mxCell id="_uYtCOcEJK9HYv702-fD-9" parent="_uYtCOcEJK9HYv702-fD-8" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=light-dark(#0bb6ef, #ededed);" value="" vertex="1">
-          <mxGeometry height="694" width="1306" x="197" as="geometry" />
+          <mxGeometry height="671" width="1306" x="197" y="23" as="geometry" />
         </mxCell>
         <mxCell id="_uYtCOcEJK9HYv702-fD-10" connectable="0" parent="_uYtCOcEJK9HYv702-fD-8" style="group" value="" vertex="1">
           <mxGeometry height="224" width="220" x="210" y="110" as="geometry" />
@@ -5054,7 +5054,7 @@
         <mxCell id="_uYtCOcEJK9HYv702-fD-48" parent="_uYtCOcEJK9HYv702-fD-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$PS^{t-2}$$&lt;/font&gt;" vertex="1">
           <mxGeometry height="25.204918032786885" width="50.28598665395615" x="33.99929109121831" y="156.00307103825116" as="geometry" />
         </mxCell>
-        <mxCell id="_uYtCOcEJK9HYv702-fD-49" parent="_uYtCOcEJK9HYv702-fD-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;1.&amp;nbsp;Prior Population Generation&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="_uYtCOcEJK9HYv702-fD-49" parent="_uYtCOcEJK9HYv702-fD-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;1.&amp;nbsp;先验种群生成&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="214" x="4" y="-37" as="geometry" />
         </mxCell>
         <mxCell id="_uYtCOcEJK9HYv702-fD-50" connectable="0" parent="_uYtCOcEJK9HYv702-fD-8" style="group" value="" vertex="1">
@@ -5066,7 +5066,7 @@
         <mxCell id="_uYtCOcEJK9HYv702-fD-52" edge="1" parent="_uYtCOcEJK9HYv702-fD-50" source="_uYtCOcEJK9HYv702-fD-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_uYtCOcEJK9HYv702-fD-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_uYtCOcEJK9HYv702-fD-53" parent="_uYtCOcEJK9HYv702-fD-50" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Initialize&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot; size=&quot;3&quot;&gt;Population&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="_uYtCOcEJK9HYv702-fD-53" parent="_uYtCOcEJK9HYv702-fD-50" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;初始化种群&lt;/font&gt;" vertex="1">
           <mxGeometry height="67" width="138.33" x="31" y="20" as="geometry" />
         </mxCell>
         <mxCell id="_uYtCOcEJK9HYv702-fD-54" edge="1" parent="_uYtCOcEJK9HYv702-fD-50" source="_uYtCOcEJK9HYv702-fD-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_uYtCOcEJK9HYv702-fD-58">
@@ -5077,19 +5077,19 @@
             <mxPoint x="209.6558233620467" y="169.81159420289896" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_uYtCOcEJK9HYv702-fD-56" parent="_uYtCOcEJK9HYv702-fD-50" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#f1b5f2, #392f3f);strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Change&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot; size=&quot;3&quot;&gt;Detected?&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="_uYtCOcEJK9HYv702-fD-56" parent="_uYtCOcEJK9HYv702-fD-50" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#f1b5f2, #392f3f);strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;环境变化？&lt;/font&gt;" vertex="1">
           <mxGeometry height="82.64" width="152.08" x="24" y="128" as="geometry" />
         </mxCell>
         <mxCell id="_uYtCOcEJK9HYv702-fD-57" edge="1" parent="_uYtCOcEJK9HYv702-fD-50" source="_uYtCOcEJK9HYv702-fD-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_uYtCOcEJK9HYv702-fD-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_uYtCOcEJK9HYv702-fD-58" parent="_uYtCOcEJK9HYv702-fD-50" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Static&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot; size=&quot;3&quot;&gt;MOEA&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="_uYtCOcEJK9HYv702-fD-58" parent="_uYtCOcEJK9HYv702-fD-50" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;静态进化&lt;/font&gt;" vertex="1">
           <mxGeometry height="69" width="139.33" x="30" y="250" as="geometry" />
         </mxCell>
         <mxCell id="_uYtCOcEJK9HYv702-fD-59" edge="1" parent="_uYtCOcEJK9HYv702-fD-50" source="_uYtCOcEJK9HYv702-fD-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_uYtCOcEJK9HYv702-fD-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_uYtCOcEJK9HYv702-fD-60" parent="_uYtCOcEJK9HYv702-fD-50" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#f1b5f2, #392f3f);strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Terminate?&lt;/span&gt;" vertex="1">
+        <mxCell id="_uYtCOcEJK9HYv702-fD-60" parent="_uYtCOcEJK9HYv702-fD-50" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#f1b5f2, #392f3f);strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;结束？&lt;/font&gt;" vertex="1">
           <mxGeometry height="82.64" width="135" x="31" y="346" as="geometry" />
         </mxCell>
         <mxCell id="_uYtCOcEJK9HYv702-fD-61" parent="_uYtCOcEJK9HYv702-fD-50" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;POS&lt;/font&gt;" vertex="1">
@@ -5107,7 +5107,7 @@
         <mxCell id="_uYtCOcEJK9HYv702-fD-65" parent="_uYtCOcEJK9HYv702-fD-50" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;No&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" y="356" as="geometry" />
         </mxCell>
-        <mxCell id="_uYtCOcEJK9HYv702-fD-66" parent="_uYtCOcEJK9HYv702-fD-50" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Main Loop&lt;/font&gt;" vertex="1">
+        <mxCell id="_uYtCOcEJK9HYv702-fD-66" parent="_uYtCOcEJK9HYv702-fD-50" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;主循环&lt;/font&gt;" vertex="1">
           <mxGeometry height="29.887733331709704" width="143.34047619047618" x="21.000952380952356" y="-39.0023288900793" as="geometry" />
         </mxCell>
         <mxCell id="_uYtCOcEJK9HYv702-fD-67" parent="_uYtCOcEJK9HYv702-fD-50" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Yes&lt;/font&gt;" vertex="1">
@@ -5206,7 +5206,7 @@
         <mxCell id="_uYtCOcEJK9HYv702-fD-98" parent="_uYtCOcEJK9HYv702-fD-92" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;rotation=90;" value="" vertex="1">
           <mxGeometry height="10.355392156862745" width="10.355392156862745" x="-35" y="54" as="geometry" />
         </mxCell>
-        <mxCell id="_uYtCOcEJK9HYv702-fD-99" parent="_uYtCOcEJK9HYv702-fD-92" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;non-dominated sorting&lt;/font&gt;" vertex="1">
+        <mxCell id="_uYtCOcEJK9HYv702-fD-99" parent="_uYtCOcEJK9HYv702-fD-92" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;非支配排序&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="144" x="-80" y="69" as="geometry" />
         </mxCell>
         <mxCell id="_uYtCOcEJK9HYv702-fD-100" parent="_uYtCOcEJK9HYv702-fD-68" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$priorPS^{t}$$&lt;/font&gt;" vertex="1">
@@ -5439,7 +5439,7 @@
         <mxCell id="_uYtCOcEJK9HYv702-fD-167" parent="_uYtCOcEJK9HYv702-fD-106" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$\boldsymbol{r^1}$$&lt;/font&gt;" vertex="1">
           <mxGeometry height="30.000000000000085" width="36.28125" x="8" y="59" as="geometry" />
         </mxCell>
-        <mxCell id="_uYtCOcEJK9HYv702-fD-168" parent="_uYtCOcEJK9HYv702-fD-106" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;2.3 Guidance Value Learning and Population Prediction&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="_uYtCOcEJK9HYv702-fD-168" parent="_uYtCOcEJK9HYv702-fD-106" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2.3 指导价值学习与种群预测&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="583" x="20" y="-8" as="geometry" />
         </mxCell>
         <mxCell id="_uYtCOcEJK9HYv702-fD-169" connectable="0" parent="_uYtCOcEJK9HYv702-fD-103" style="group" value="" vertex="1">
@@ -5641,8 +5641,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_uYtCOcEJK9HYv702-fD-233" parent="_uYtCOcEJK9HYv702-fD-169" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;2.2&amp;nbsp;&lt;/font&gt;Set-Attention Environment Encoding&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="534" x="86" y="2" as="geometry" />
+        <mxCell id="_uYtCOcEJK9HYv702-fD-233" parent="_uYtCOcEJK9HYv702-fD-169" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;2.2 环境编码&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="534" x="97" y="3" as="geometry" />
         </mxCell>
         <mxCell id="_uYtCOcEJK9HYv702-fD-234" edge="1" parent="_uYtCOcEJK9HYv702-fD-169" source="_uYtCOcEJK9HYv702-fD-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_uYtCOcEJK9HYv702-fD-235">
           <mxGeometry relative="1" as="geometry">
@@ -5839,8 +5839,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_uYtCOcEJK9HYv702-fD-285" parent="_uYtCOcEJK9HYv702-fD-239" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;2.1 Population Encoding&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="407" x="49" y="-3" as="geometry" />
+        <mxCell id="_uYtCOcEJK9HYv702-fD-285" parent="_uYtCOcEJK9HYv702-fD-239" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2.1 种群编码&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="407" x="49" y="-1" as="geometry" />
         </mxCell>
         <mxCell id="_uYtCOcEJK9HYv702-fD-286" parent="_uYtCOcEJK9HYv702-fD-239" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
           <mxGeometry height="36" width="60" x="412" y="130" as="geometry" />
@@ -5868,8 +5868,8 @@
         <mxCell id="_uYtCOcEJK9HYv702-fD-292" edge="1" parent="_uYtCOcEJK9HYv702-fD-103" source="_uYtCOcEJK9HYv702-fD-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_uYtCOcEJK9HYv702-fD-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_uYtCOcEJK9HYv702-fD-293" parent="_uYtCOcEJK9HYv702-fD-103" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;2.&amp;nbsp;&lt;/font&gt;Set-Attention-Based Guidance Value Learning&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="437" x="167" y="5" as="geometry" />
+        <mxCell id="_uYtCOcEJK9HYv702-fD-293" parent="_uYtCOcEJK9HYv702-fD-103" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;2.基于集合注意力的指导价值学习模块&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="437" x="167" y="3" as="geometry" />
         </mxCell>
         <mxCell id="_uYtCOcEJK9HYv702-fD-294" connectable="0" parent="_uYtCOcEJK9HYv702-fD-8" style="group" value="" vertex="1">
           <mxGeometry height="600" width="379" x="1141" y="96" as="geometry" />
@@ -6148,11 +6148,8 @@
         <mxCell id="_uYtCOcEJK9HYv702-fD-380" edge="1" parent="_uYtCOcEJK9HYv702-fD-8" source="_uYtCOcEJK9HYv702-fD-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="_uYtCOcEJK9HYv702-fD-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_uYtCOcEJK9HYv702-fD-381" parent="_uYtCOcEJK9HYv702-fD-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Attention–State-Space Hybrid Guidance Value Learning Response Strategy&amp;nbsp;(ASHG)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="1017" x="407" y="5" as="geometry" />
-        </mxCell>
-        <mxCell id="_uYtCOcEJK9HYv702-fD-382" parent="_uYtCOcEJK9HYv702-fD-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;3.&lt;/font&gt;State-Space-Model-Based Region Adjustment&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="349" x="1147" y="61" as="geometry" />
+        <mxCell id="_uYtCOcEJK9HYv702-fD-382" parent="_uYtCOcEJK9HYv702-fD-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;3.基于状态空间模型的调整模块&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="349" x="1142" y="61" as="geometry" />
         </mxCell>
         <mxCell id="cpC22A1kRcSrz_11geWJ-333" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=light-dark(#0bb6ef, #ededed);" value="" vertex="1">
           <mxGeometry height="694" width="1306" x="144" y="3396" as="geometry" />
@@ -7092,7 +7089,7 @@
           <mxGeometry height="30" width="437" x="167" y="5" as="geometry" />
         </mxCell>
         <mxCell id="cpC22A1kRcSrz_11geWJ-538" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="600" width="379" x="1088" y="3492" as="geometry" />
+          <mxGeometry height="611" width="737" x="1088" y="3492" as="geometry" />
         </mxCell>
         <mxCell id="cpC22A1kRcSrz_11geWJ-536" parent="cpC22A1kRcSrz_11geWJ-538" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=light-dark(#f906d8, #ededed);" value="" vertex="1">
           <mxGeometry height="618" width="347" x="1" y="-50" as="geometry" />
@@ -7352,6 +7349,9 @@
         </mxCell>
         <mxCell id="cpC22A1kRcSrz_11geWJ-289" parent="cpC22A1kRcSrz_11geWJ-538" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$MLP_4$$&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="277" y="484" as="geometry" />
+        </mxCell>
+        <mxCell id="_uYtCOcEJK9HYv702-fD-381" parent="cpC22A1kRcSrz_11geWJ-538" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Attention–State-Space Hybrid Guidance Value Learning Response Strategy&amp;nbsp;(ASHG)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="1017" x="-280" y="581" as="geometry" />
         </mxCell>
         <mxCell id="cpC22A1kRcSrz_11geWJ-542" edge="1" parent="1" source="cpC22A1kRcSrz_11geWJ-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="cpC22A1kRcSrz_11geWJ-364">
           <mxGeometry relative="1" as="geometry">
