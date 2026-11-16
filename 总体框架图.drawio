@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="P9fUBXZFuD06-Y9xEvTM">
-    <mxGraphModel dx="3856" dy="2846" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3554" dy="2396" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2386,7 +2386,7 @@
         <mxCell id="aBFo-bwXa3a2AVtqotSl-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#45ed07, #ededed);" value="" vertex="1">
           <mxGeometry height="656" width="836" x="754" y="996" as="geometry" />
         </mxCell>
-        <mxCell id="gNrXiicIwbMcQROZD88e-826" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;基于注意机制的指导价值学习&lt;/span&gt;" vertex="1">
+        <mxCell id="gNrXiicIwbMcQROZD88e-826" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;基于两级注意力的指导价值学习&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="390" x="909" y="998" as="geometry" />
         </mxCell>
         <mxCell id="gNrXiicIwbMcQROZD88e-676" connectable="0" parent="1" style="group;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="" vertex="1">
