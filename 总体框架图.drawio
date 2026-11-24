@@ -12014,7 +12014,7 @@
           <mxGeometry height="556" width="535" as="geometry" />
         </mxCell>
         <mxCell id="_U3Fy81PQIIUvZDjsJS5-1176" parent="_U3Fy81PQIIUvZDjsJS5-1175" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=light-dark(#fd129b, #ededed);" value="" vertex="1">
-          <mxGeometry height="576" width="558" x="-23" y="-20" as="geometry" />
+          <mxGeometry height="601" width="558" x="-23" y="-45" as="geometry" />
         </mxCell>
         <mxCell id="_U3Fy81PQIIUvZDjsJS5-1177" parent="_U3Fy81PQIIUvZDjsJS5-1175" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=light-dark(#06ef35, #ededed);" value="" vertex="1">
           <mxGeometry height="183" width="514" as="geometry" />
@@ -12213,6 +12213,9 @@
         </mxCell>
         <mxCell id="_U3Fy81PQIIUvZDjsJS5-1242" edge="1" parent="_U3Fy81PQIIUvZDjsJS5-1175" source="_U3Fy81PQIIUvZDjsJS5-1194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=-0.39;entryY=-0.056;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="_U3Fy81PQIIUvZDjsJS5-1235">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ivn--HtZonejkj123_6B-1" parent="_U3Fy81PQIIUvZDjsJS5-1175" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;基于交叉注意力的指导价值学习模块&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="390" x="65" y="-32" as="geometry" />
         </mxCell>
         <mxCell id="_U3Fy81PQIIUvZDjsJS5-1243" connectable="0" parent="_U3Fy81PQIIUvZDjsJS5-1174" style="group" value="" vertex="1">
           <mxGeometry height="161" width="523" x="1" y="206" as="geometry" />
